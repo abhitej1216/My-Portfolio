@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>My Amazing Portfolio</title>
+    <link rel="stylesheet" href="PW.css">
+</head>
+<body>
+<header>
+    <nav class="navbar">
+        <ul class="nav imp-heading">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">My Intro</a></li>
+            <li><a href="#">My Experience</a></li>
+            <li><a href="#">Resume</a></li>
+            <li><a href="#">Contact Me</a></li>
+        </ul>
+    </nav>
+</header>
+</body>
+</html>
+<!DOCTYPE <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Home</title>
+</head>
+<body>
+       <div class="container square-heading">
+                <h4 class="cont mean-heading">Hi there, my name is</h4>
+</div>
+       <div class="container meant-heading">
+                <h1 class="cont fav-heading">Jaskaran Singh</h1>
+</div>
+     <div class="cont blob-heading">
+    <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+        <path fill="#0F62FE"
+              d="M50,-47.4C63.2,-36.9,71.1,-18.4,69.4,-1.7C67.7,15.1,56.5,30.2,43.3,45.3C30.2,60.4,15.1,75.6,-0.5,76.2C-16.2,76.7,-32.4,62.6,-45.8,47.5C-59.1,32.4,-69.7,16.2,-72.8,-3.1C-75.9,-22.3,-71.5,-44.7,-58.1,-55.2C-44.7,-65.7,-22.3,-64.3,-1.9,-62.4C18.4,-60.4,36.9,-57.9,50,-47.4Z"
+              transform="translate(100 100)"/>
+    </svg>
+     </div>
+
+</body>
+<script src="PW.js"></script>
+</html>
+
+
