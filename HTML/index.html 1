@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>My Amazing Portfolio</title>
+    <link rel="stylesheet" href="PW.css">
+</head>
+<body>
+<header>
+    <nav class="navbar">
+        <ul class="nav imp-heading">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">My Intro</a></li>
+            <li><a href="#">My Experience</a></li>
+            <li><a href="#">Resume</a></li>
+            <li><a href="#">Contact Me</a></li>
+        </ul>
+    </nav>
+</header>
+</body>
+</html>
+<!DOCTYPE <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Home</title>
+</head>
+<body>
+       <div class="container square-heading">
+                <h4 class="cont mean-heading">Hi there, my name is</h4>
+</div>
+       <div class="container meant-heading">
+                <h1 class="cont fav-heading">Jaskaran Singh</h1>
+</div>
