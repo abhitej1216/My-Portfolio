@@ -1,0 +1,85 @@
+
+.navbar {
+    background-color: darkblue;
+    border-radius: 24px;
+}
+
+.navbar ul {
+    overflow: auto;
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+}
+
+.navbar li a:hover {
+    background-color: red;
+    border-radius: 6px;
+}
+
+.navbar li a {
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar input {
+    border: 2px darkslateblue;
+    border-radius: 14px;
+    padding: 3px 4px;
+    width: 350px;
+}
+
+
+
+.mean-heading {
+    margin: 80px;
+    color: #da3113;
+    padding: 10px;
+    font-size: 25px;
+    display: inline-block;
+    width: 50vh;
+}
+
+.square-heading {
+    padding-bottom: 0vw;
+    padding-left: 4vw;
+    margin: auto;
+}
+
+.meant-heading {
+    padding-bottom: 0vw;
+    padding-left: 4vw;
+    margin-top: 0vw;
+    padding-top: 2px;
+    width: 50vh;
+}
+
+.fav-heading {
+    margin: 80px;
+    margin-top: 0px;
+    padding: 0px;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.96);
+    display: inline-block;
+    width: 50vh;
+}
+
+.imp-heading {
+    font-size: 17px;
+}
+
+.blob-heading {
+    display: inline-block;
+    height: 35vw;
+    width: 35vw;
+    margin: 10px;
+    padding-left: 60vw;
+    padding-top: 1vw;
+    padding-bottom: 3vw;
+
+
+}
+
